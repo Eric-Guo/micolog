@@ -1,0 +1,1 @@
+from eric_plugin import *
