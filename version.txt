@@ -1,5 +1,8 @@
 ﻿#history
 
+2012/05/04 0.744 release (http://eric.cloud-mes.com)
+Add git fork image in pixel theme.
+
 2011/11/09 0.743 release (http://eric.cloud-mes.com)
 Final version of Google App Engine python runtime 2.5.
 
