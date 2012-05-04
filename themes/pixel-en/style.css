@@ -34,13 +34,13 @@ hr {
   }
 
 pre {
-  height: auto; 
+  height: auto;
   overflow-x:scroll;
   }
 
 fieldset {
   margin: 0;
-  padding: 0; 
+  padding: 0;
   border: 0;
   }
 
@@ -64,7 +64,7 @@ a:hover {
   }
 
 a img {
-  border: none;  
+  border: none;
   }
 
 blockquote {
@@ -114,7 +114,7 @@ body {
   text-align: right;
   float: right;
   width: 930px;
-  margin: 3px 0 0 0;
+  margin: 3px 90px 0 0;
 }
 #header #topright ul {
   list-style: none;
@@ -174,7 +174,7 @@ body {
   margin: 0;
   padding: 0;
   }
-	
+
 #nav ul {
   margin: 0;
   padding: 0;
@@ -212,14 +212,14 @@ body {
 #nav li:hover ul, #nav li.sfhover ul {
   left: auto;
   }
-	
+
 #nav li li {
   float: left;
   margin: 0;
   padding: 0;
   width: 150px;
   }
-	
+
 #nav li li a {
   width: 150px;
   height: 24px;
@@ -230,7 +230,7 @@ body {
   margin: 0;
   padding: 5px 20px 5px 15px;
   }
-	
+
 #nav li li a:hover {
   border-top: 1px solid #131f27;
   background: #000;
@@ -296,7 +296,7 @@ body {
   padding: 0;
   margin: -10px 0 0 0;
   font-size: 9pt;
-  color: #cdcdcd;  
+  color: #cdcdcd;
   }
 .topPost p.topMeta a {
   text-decoration: none;
@@ -513,7 +513,7 @@ textarea#comment {
   }
 #main #welcome p {
   font-size: 9pt;
-  color: #eee;  
+  color: #eee;
   margin: 0 10px;
   padding: 6px 0;
   }
